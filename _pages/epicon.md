@@ -2,7 +2,6 @@
 layout: page
 title: epicon
 description: Epigenetics Cooperation North
-cover-img: /assets/img/1.jpg
 nav: true
 nav_order: 2
 ---
