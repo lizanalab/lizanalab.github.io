@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-11-04 07:59:00-0400
-title: New arXiv paper: Target search on networks-within-networks with applications to protein-DNA interactions
+title: New arXiv paper; Target search on networks-within-networks with applications to protein-DNA interactions
 inline: false
 related_posts: false
 ---
