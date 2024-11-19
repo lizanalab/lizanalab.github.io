@@ -1,6 +1,7 @@
 ---
 layout: page
 title: epicon
+permalink: /pages/
 description: Epigenetics Cooperation North
 nav: true
 nav_order: 2
