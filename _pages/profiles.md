@@ -11,32 +11,38 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: ludvig.jpg
-    content: about_ludvig.md
+    content: about_ludvig_korean.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Group leader</p>
+      <p>Group Leader</p>
   - align: left
     image: juhee.jpg
-    content: about_juhee.md
+    content: about_juhee_korean.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Kempe Postdoc</p>
   - align: right
-    image: moa.jpg
-    content: about_moa.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>PhD student</p>
-  - align: left
     image: lucas.jpg
-    content: about_lucas.md
+    content: about_lucas_korean.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>PhD student</p>
-  - align: right
+      <p>Staff Scientist</p>
+  - align: left
     image: seong-gyu.jpg
-    content: about_seong-gyu.md
+    content: about_seong-gyu_korean.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Carl Trygger postdoc </p>
+      <p>Carl Trygger Postdoc </p>
+  - align: right
+    image: anton.jpg
+    content: about_anton_korean.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>PhD Student </p>
+  - align: left
+    image: moa.jpg
+    content: about_moa_korean.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Alumni, Doctor</p>
 ---
