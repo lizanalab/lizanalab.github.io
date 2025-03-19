@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: spanning complex networks, DNA folding, ....
 nav: false
-nav_order: 3
+nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
