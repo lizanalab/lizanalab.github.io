@@ -4,4 +4,3 @@ Now pursuing his PhD, Antón works on developing mechanistic models of biologica
 
 Outside the lab, you’ll often find him cross-country skiing in winter or hiking in the summer. He also practices Brazilian jiu-jitsu and enjoys spending time with a good book.
 
-Lv.999999 warrior
