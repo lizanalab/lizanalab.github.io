@@ -53,5 +53,5 @@ profiles:
     content: about_moa.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Alumni, Doctor</p>
+      <p>Alumni, PhD</p>
 ---
