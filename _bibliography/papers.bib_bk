@@ -1,143 +1,4 @@
-@article{sott2006controlling,
-  title={Controlling enzymatic reactions by geometry in a biomimetic nanoscale network},
-  author={Sott, Kristin and Lobovkina, Tatsiana and Lizana, Ludvig and Tokarz, Michal and Bauer, Brigitte and Konkoli, Zoran and Orwar, Owe},
-  journal={Nano Letters},
-  volume={6},
-  number={2},
-  pages={209--214},
-  year={2006},
-  publisher={American Chemical Society}
-}
 
-@article{lizana2008single,
-  title={Single-file diffusion in a box},
-  author={Lizana, Ludvig and Ambj{\"o}rnsson, Tobias},
-  journal={Physical review letters},
-  volume={100},
-  number={20},
-  pages={200601},
-  year={2008},
-  publisher={APS}
-}
-
-@article{lizana2008controlling,
-  title={Controlling the rates of biochemical reactions and signaling networks by shape and volume changes},
-  author={Lizana, Ludvig and Bauer, Brigitte and Orwar, Owe},
-  journal={Proceedings of the National Academy of Sciences},
-  volume={105},
-  number={11},
-  pages={4099--4104},
-  year={2008},
-  publisher={National Academy of Sciences}
-}
-
-@article{lizana2010foundation,
-  title={Foundation of fractional Langevin equation: harmonization of a many-body problem},
-  author={Lizana, Ludvig and Ambj{\"o}rnsson, Tobias and Taloni, Alessandro and Barkai, Eli and Lomholt, Michael A},
-  journal={Physical Review E},
-  volume={81},
-  number={5},
-  pages={051118},
-  year={2010},
-  publisher={American Physical Society}
-}
-
-@article{lizana2005diffusive,
-  title={Diffusive transport in networks built of containers and tubes},
-  author={Lizana, Ludvig and Konkoli, Zoran},
-  journal={Physical Review E},
-  volume={72},
-  number={2},
-  pages={026305},
-  year={2005},
-  publisher={APS}
-}
-
-@article{gerlee2009pathway,
-  title={Pathway identification by network pruning in the metabolic network of Escherichia coli},
-  author={Gerlee, Philip and Lizana, L and Sneppen, Kim},
-  journal={Bioinformatics},
-  volume={25},
-  number={24},
-  pages={3282--3288},
-  year={2009},
-  publisher={Oxford University Press}
-}
-
-@article{ambjornsson2008single,
-  title={Single-file dynamics with different diffusion constants},
-  author={Ambj{\"o}rnsson, Tobias and Lizana, Ludvig and Lomholt, Michael A and Silbey, Robert J},
-  journal={The Journal of chemical physics},
-  volume={129},
-  number={18},
-  year={2008},
-  publisher={AIP Publishing}
-}
-
-@article{lizana2009controlling,
-  title={Controlling chemistry by geometry in nanoscale systems},
-  author={Lizana, Ludvig and Konkoli, Zoran and Bauer, Brigitte and Jesorka, Aldo and Orwar, Owe},
-  journal={Annual review of physical chemistry},
-  volume={60},
-  pages={449--468},
-  year={2009},
-  publisher={Annual Reviews}
-}
-
-@article{lizana2009diffusion,
-  title={Diffusion of finite-sized hard-core interacting particles in a one-dimensional box: Tagged particle dynamics},
-  author={Lizana, Ludvig and Ambj{\"o}rnsson, Tobias},
-  journal={Physical Review E},
-  volume={80},
-  number={5},
-  pages={051103},
-  year={2009},
-  publisher={American Physical Society}
-}
-
-@article{sneppen2009modeling,
-  title={Modeling proteasome dynamics in Parkinson's disease},
-  author={Sneppen, Kim and Lizana, Ludvig and Jensen, Mogens H and Pigolotti, Simone and Otzen, Daniel},
-  journal={Physical biology},
-  volume={6},
-  number={3},
-  pages={036005},
-  year={2009},
-  publisher={IOP Publishing}
-}
-
-@article{lizana2007tunable,
-  title={Tunable filtering of chemical signals in a simple nanoscale reaction-diffusion network},
-  author={Lizana, Ludvig and Konkoli, Zoran and Orwar, Owe},
-  journal={The Journal of Physical Chemistry B},
-  volume={111},
-  number={22},
-  pages={6214--6219},
-  year={2007},
-  publisher={ACS Publications}
-}
-
-@article{markstrom2008thermoactuated,
-  title={Thermoactuated diffusion control in soft matter nanofluidic devices},
-  author={Markstr{\"o}m, Martin and Lizana, Ludvig and Orwar, Owe and Jesorka, Aldo},
-  journal={Langmuir},
-  volume={24},
-  number={9},
-  pages={5166--5171},
-  year={2008},
-  publisher={ACS Publications}
-}
-
-@article{lizana2010time,
-  title={Time walkers and spatial dynamics of aging information},
-  author={Lizana, Ludvig and Rosvall, Martin and Sneppen, Kim},
-  journal={Physical review letters},
-  volume={104},
-  number={4},
-  pages={040603},
-  year={2010},
-  publisher={American Physical Society}
-}
 
 @article{lomholt2011dissimilar,
   title={Dissimilar bouncy walkers},
@@ -170,34 +31,6 @@
   publisher={BioMed Central}
 }
 
-@phdthesis{lizana2008reaction,
-  title={Reaction-diffusion Processes in Nanofluidic Networks},
-  author={Lizana, Ludvig},
-  year={2008},
-  school={Chalmers University of Technology}
-}
-
-@article{jesorka2008transport,
-  title={Transport Phenomena and Chemical Reactions in Nanoscale Surfactant Networks},
-  author={Jesorka, Aldo and Orwar, Owe and Konkoli, Zoran and Bauer, Brigitte and Lizana, Ludvig},
-  year={2008}
-}
-
-@article{lizana2005diffusive,
-  title={Diffusive transport in networks built of coupled chemical reactors},
-  author={Lizana, Ludvig},
-  year={2005},
-  publisher={Chalmers University of Technology}
-}
-
-@inproceedings{jesorka2010controlling,
-  title={Controlling Chemistry in Dynamic Nanoscale Systems},
-  author={Jesorka, Aldo and Lizana, Ludvig and Konkoli, Zoran and Czolkos, Ilja and Orwar, Owe},
-  booktitle={Single Molecule Spectroscopy in Chemistry, Physics and Biology: Nobel Symposium},
-  pages={449--468},
-  year={2010},
-  organization={Springer Berlin Heidelberg}
-}
 
 @article{pigolotti2013quality,
   title={Quality control system response to stochastic growth of amyloid fibrils},
@@ -252,14 +85,6 @@
   publisher={IOP Publishing}
 }
 
-@inproceedings{御手洗菜美子201226pbg,
-  title={26pBG-5 情報を持ったランダムウォーカーによる方言の伝播モデル (26pBG 生物・生態系 2・ネットワーク一般, 領域 11 (統計力学, 物性基礎論, 応用数学, 力学, 流体物理))},
-  author={御手洗菜美子 and 中西秀},
-  booktitle={日本物理学会講演概要集 67.1. 2},
-  pages={357},
-  year={2012},
-  organization={一般社団法人 日本物理学会}
-}
 
 @article{mirshahvalad2014dynamics,
   title={Dynamics of interacting information waves in networks},
@@ -496,7 +321,7 @@
   year={2023},
   publisher={Public Library of Science San Francisco, CA USA},
   abstract = {Mammalian DNA folds into 3D structures that facilitate and regulate genetic processes such as transcription, DNA repair, and epigenetics. Several insights derive from chromosome capture methods, such as Hi-C, which allow researchers to construct contact maps depicting 3D interactions among all DNA segment pairs. These maps show a complex cross-scale organization spanning megabase-pair compartments to short-ranged DNA loops. To better understand the organizing principles, several groups analyzed Hi-C data assuming a Russian-doll-like nested hierarchy where DNA regions of similar sizes merge into larger and larger structures. Apart from being a simple and appealing description, this model explains, e.g., the omnipresent chequerboard pattern seen in Hi-C maps, known as A/B compartments, and foreshadows the co-localization of some functionally similar DNA regions. However, while successful, this model is incompatible with the two competing mechanisms that seem to shape a significant part of the chromosomes’ 3D organization: loop extrusion and phase separation. This paper aims to map out the chromosome’s actual folding hierarchy from empirical data. To this end, we take advantage of Hi-C experiments and treat the measured DNA-DNA interactions as a weighted network. From such a network, we extract 3D communities using the generalized Louvain algorithm. This algorithm has a resolution parameter that allows us to scan seamlessly through the community size spectrum, from A/B compartments to topologically associated domains (TADs). By constructing a hierarchical tree connecting these communities, we find that chromosomes are more complex than a perfect hierarchy. Analyzing how communities nest relative to a simple folding model, we found that chromosomes exhibit a significant portion of nested and non-nested community pairs alongside considerable randomness. In addition, by examining nesting and chromatin types, we discovered that nested parts are often associated with active chromatin. These results highlight that cross-scale relationships will be essential components in models aiming to reach a deep understanding of the causal mechanisms of chromosome folding.},
-  selected = {true}
+  selected = {false}
 }
 
 @article{hedstrom2023modelling,
@@ -559,24 +384,65 @@
   author={Lucas Hedstr{\"o}m and Ludvig Lizana},
   journal={arXiv.2311.11727},
   html ={https://doi.org/10.48550/arXiv.2311.11727},
+  note={<a href = "https://doi.org/10.48550/arXiv.2311.11727">arXiv</a>}
   year={2024},
   abstract = {The most common gene regulation mechanism is when a protein binds to a regulatory sequence to change RNA transcription. However, these sequences are short relative to the genome length, so finding them poses a challenging search problem. This paper presents two mathematical frameworks capturing different aspects of this problem. First, we study the interplay between diffusional flux through a target where the searching proteins get sequestered on DNA far from the target because of non-specific interactions. From this model, we derive a simple formula for the optimal protein-DNA unbinding rate, maximizing the particle flux. Second, we study how the flux flows through a target on a single antenna with variable length. Here, we identify a non-trivial logarithmic correction to the linear behavior relative to the target size proposed by Smoluchowski's flux formula.}
+}
+
+@article{hedstrom2024exploring,
+  title={Exploring the benefits of DNA-target search with antenna},
+  author={Hedstr{\"o}m, Lucas and Lizana, Ludvig},
+  journal={Target Search Problems (Springer)},
+  pages={601--616},
+  year={2025},
+  note={<a href = "https://doi.org/10.48550/arXiv.2311.11727">arXiv</a>},
+  html={https://link.springer.com/chapter/10.1007/978-3-031-67802-8_24},
+  abstract = {The most common gene regulation mechanism is when a protein binds to a regulatory sequence to change RNA transcription. However, these sequences are short relative to the genome length, so finding them poses a challenging search problem. This paper presents two mathematical frameworks capturing different aspects of this problem. First, we study the interplay between diffusional flux through a target where the searching proteins get sequestered on DNA far from the target because of non-specific interactions. From this model, we derive a simple formula for the optimal protein-DNA unbinding rate, maximizing the particle flux. Second, we study how the flux flows through a target on a single antenna with variable length. Here, we identify a non-trivial logarithmic correction to the linear behavior relative to the target size proposed by Smoluchowski's flux formula.}
+
 }
 
 @article{lizana2024topology,
   title={The scales, mechanisms, and dynamics of the genome architecture},
   author={Ludvig Lizana and Yuri B. Schwartz},
-  journal={Science Advances (n press)},
+  journal={Science Advances},
   year={2024},
+  html={https://www.science.org/doi/full/10.1126/sciadv.adm8167},
   abstract = {Even when split into several chromosomes, DNA molecules that make up our genome are too long to fit into the cell nuclei unless massively folded. Such folding must accommodate the need for timely access to selected parts of the genome by transcription factors, RNA polymerases, and DNA replication machinery. Here we review our current understanding of the genome folding inside the interphase nuclei. We consider the resulting genome architecture at three scales and summarize the insights gained from recent experimental observations and diverse computational models.}
 }
 
 @article{hedstrom2024general,
-  title={A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation},
+  title={Enhancer-Insulator Pairing Reveals Heterogeneous Dynamics in Long-Distance 3D Gene Regulation},
   author={Lucas Hedstr{\"o}m and Ralf Metzler and Ludvig Lizana},
-  html={https://doi.org/10.48550/arXiv.2402.09209},
-  journal={arXiv:2402.09209},
+  journal = {PRX life},
+  html={https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.033008},
+  note={<a href = "https://doi.org/10.48550/arXiv.2402.09209">arXiv</a>},
   year={2024},
   abstract = {Cells regulate fates and complex body plans using spatiotemporal signaling cascades that al- ter gene expression. Enhancers, short DNA sequences (50-150 base pairs), help coordinate these cascades by attracting regulatory proteins to enhance the transcription of distal genes by bind- ing to promoters. In humans, there are hundreds of thousands of enhancers dispersed across the genome, which poses a challenging coordination task to prevent unintended gene activation. To mit- igate this problem, the genome contains additional DNA elements, insulators, that block enhancer- promoter interactions. However, there is an open problem with how the insulation works, especially as enhancer-insulator pairs may be separated by millions of base pairs. Based on recent empirical data from Hi-C experiments, this paper proposes a new mechanism that challenges the common paradigm that rests on specific insulator-insulator interactions. Instead, this paper introduces a stochastic looping model where enhancers bind weakly to surrounding chromatin. After calibrating the model to experimental data, we use simulations to study the broad distribution of hitting times between an enhancer and a promter when there are blocking insulators. In some cases, there is a large difference between average and most probable hitting times, making it difficult to assign a typical time scale, hinting at highly defocused regulation times. We also map our computational model onto a resetting problem that allows us to derive several analytical results. Besides offering new insights into enhancer-insulator interactions, our paper advances the understanding of gene regulatory networks and causal connections between genome folding and gene activation.},
+  selected={true}
+}
+
+@article{hedstrom2024identifying,
+  title={Identifying stable communities in Hi-C using multifractal network modularity},
+  author={Lucas Hedstr{\"o}m and Antón Carcedo Martínez and Ludvig Lizana},
+  html={https://arxiv.org/abs/2405.05425},
+  journal={arXiv:2405.05425},
+  year={2024},
+  abstract = {Chromosome capture techniques like Hi-C have expanded our understanding of mammalian genome 3D architecture and how it influences gene activity. To analyze Hi-C data sets, researchers increasingly treat them as DNA-contact networks and use standard community detection techniques to identify mesoscale 3D communities. However, there are considerable challenges in finding significant communities because the Hi-C networks have cross-scale interactions and are almost fully connected.  This paper presents a pipeline to distill 3D communities that remain intact under experimental noise. To this end, we bootstrap an ensemble of Hi-C datasets representing noisy data and extract 3D communities that we compare with the unperturbed dataset. Notably, we extract the communities by maximizing local modularity (using the Generalized Louvain method), which considers the multifractal spectrum recently discovered in Hi-C maps. Our pipeline finds that stable communities (under noise) typically have above-average internal contact frequencies and tend to be enriched in active chromatin marks. We also find they fold into more nested cross-scale hierarchies than less stable ones. Apart from presenting how to systematically extract robust communities in Hi-C data, our paper offers new ways to generate null models that take advantage of the network's multifractal properties. We anticipate this has a broad applicability to several network applications.},
   selected={false}
+}
+
+@article{hedstrom2024target,
+  title={Target search on networks-within-networks with applications to protein-DNA interactions},
+  author={Hedstr{\"o}m, Lucas and Yang, Seong-Gyu and Lizana, Ludvig},
+  journal={arXiv:2411.02660},
+  year={2024},
+  abstract = {We present a novel framework for understanding node target search in systems organized as hierarchical networks-within-networks. Our work generalizes traditional search models on complex networks, where the mean-first passage time is typically inversely proportional to the node degree. However, real-world search processes often span multiple network layers, such as moving from an external environment into a local network, and then navigating several internal states. This multilayered complexity appears in scenarios such as international travel networks, tracking email spammers, and the dynamics of protein-DNA interactions in cells. Our theory addresses these complex systems by modeling them as a three-layer multiplex network: an external source layer, an intermediate spatial layer, and an internal state layer. We derive general closed-form solutions for the steady-state flux through a target node, which serves as a proxy for inverse mean-first passage time. Our results reveal a universal relationship between search efficiency and network-specific parameters. This work extends the current understanding of multiplex networks by focusing on systems with hierarchically connected layers. Our findings have broad implications for fields ranging from epidemiology to cellular biology and provide a more comprehensive understanding of search dynamics in complex, multilayered environments.}
+}
+@article{lee202general,
+  title={General Resetting Theory for Group Avoidance},
+  author={Juhee Lee and Seong-Gyu Yang and Hye Jin Park and Ludvig Lizana},
+  journal={arXiv:2412.02524},
+  html = {https://arxiv.org/abs/2412.02524},
+  year={2024},
+  abstract = {We present a general theoretical framework for group resetting dynamics in multi-agent systems in a drift potential. This setup contrasts with a typical resetting problem that involves a single searcher looking for a target, with resetting traditionally studied to optimize the search time to a target. More recently, resetting has also been used as a regulatory mechanism to avoid adverse outcomes, such as preventing critically high water levels in dams or deleveraging financial portfolios. Here, we extend current resetting theories to group dynamics, with applications ranging from bacterial evolution under antibiotic pressure to multiple-searcher optimization algorithms. Our framework incorporates extreme value statistics and renewal theory, from which we derive a master equation for the center of mass distribution of a group of searchers. This master equation allows us to calculate essential observables analytically. For example, how the group's average position depends on group size, resetting rates, drift potential strength, and diffusion constants. This theoretical approach offers a new perspective on optimizing group search and regulatory mechanisms through resetting.}
 }
