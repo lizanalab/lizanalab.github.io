@@ -25,13 +25,20 @@ profiles:
       <p>Kempe Postdoc</p>
 
   - align: right
+    image: lucas.jpg
+    content: about_lucas_korean.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+	  <p>Staff Scientist</p>
+
+  - align: left
     image: seong-gyu.jpg
     content: about_seong-gyu_korean.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Carl Trygger Postdoc</p>
 
-  - align: left
+  - align: right
     image: anton.jpg
     content: about_anton_korean.md
     image_circular: false # crops the image to make it circular
@@ -40,18 +47,12 @@ profiles:
 
   - align: left
 
-  - align: right
+  - align: left
     image: moa.jpg
     content: about_moa_korean.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Alumni, PhD</p>
 
-  - align: left
-    image: lucas.jpg
-    content: about_lucas_korean.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-	  <p>Alumni, PhD</p>
 
 ---
