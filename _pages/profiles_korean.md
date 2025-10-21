@@ -24,12 +24,6 @@ profiles:
     more_info: >
       <p>Kempe Postdoc</p>
 
-  - align: right
-    image: lucas.jpg
-    content: about_lucas_korean.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Staff Scientist</p>
 
   - align: left
     image: seong-gyu.jpg
@@ -53,4 +47,13 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Alumni, PhD</p>
+
+  - align: right
+    image: lucas.jpg
+    content: about_lucas_korean.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+	  <p>Alumni, PhD</p>
+#      <p>Staff Scientist</p>
+
 ---
