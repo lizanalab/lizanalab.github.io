@@ -8,12 +8,15 @@ nav: true
 nav_order: 4
 
 profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
   - align: right
     image: ludvig.jpg
     content: about_ludvig.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Group Leader</p>
+
 
   - align: left
     image: juhee.jpg
@@ -22,12 +25,14 @@ profiles:
     more_info: >
       <p>Kempe Postdoc</p>
 
+
   - align: right
     image: seong-gyu.jpg
     content: about_seong-gyu.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Carl Trygger Postdoc </p>
+
 
   - align: left
     image: anton.jpg
@@ -36,19 +41,19 @@ profiles:
     more_info: >
       <p>PhD Student </p>
 
-  - align: right
+
+  - align: left
     image: moa.jpg
     content: about_moa.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Alumni, PhD</p>
 
-  - align: left
+
+  - align: right
     image: lucas.jpg
     content: about_lucas.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Alumni, PhD</p>
-
-
+	  <p>Alumni, PhD</p>
 ---
