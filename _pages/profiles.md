@@ -24,7 +24,6 @@ profiles:
     more_info: >
       <p>Kempe Postdoc</p>
 
-
   - align: right
     image: seong-gyu.jpg
     content: about_seong-gyu.md
@@ -38,7 +37,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>PhD Student </p>
-
 
   - align: left
 
@@ -55,6 +53,5 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
 	  <p>Alumni, PhD</p>
-#      <p>Staff Scientist</p>
 
 ---
