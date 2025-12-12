@@ -30,25 +30,40 @@ Stress Response Modeling at IceLab is a multidisciplinary complexity center that
 
 
 ### List of participants
-Ralf Metzler, Univ. potsdam, <br>
-Jong-Won Hong, Inha Univ., <br>
-Hae Seong Lee. Inha Univ., <br>
-Sunhee Chae, Inha Univ., <br>
-Changhee Cho, Inha Univ., <br>
-Jae Woo Lee	Inha Univ., <br>
-Hyeong-Chai Jeong, Sejong Univ. , <br>
-Deok-Sun Lee, KIAS, <br>
-Jae-Hyung Jeon, POSTECH, <br>
-Chan Lim, POSTECH, <br>
-Cheol-Min Ghim, UNIST, <br>
-Woo Joong Kim, UNIST, <br>
-Yuriy Pichugin, MPI, <br>
-Elim Mallmin, MPI, <br>
-Chaitanya Gokhale, Würzburg Univ. , <br>
-Åke Brännström, IceLab, <br>
-Seong Gyu Yang, IceLab<br>
-Juhee Lee, IceLab<br>
-Antón Carcedo Martinez, IceLab<br>
+<!--- PIs --->
+Åke Brännström, IceLab,<br>
+Ala Trusina, NBI,<br>
+Chaitanya Gokhale, Würzburg University,<br>
+Cheol-Min Ghim, UNIST,<br>
+Deok-Sun Lee, KIAS,<br>
+Hyeong-Chai Jeong, Sejong University,<br>
+Jae Woo Lee, Inha University,<br>
+Jae-Hyung Jeon, POSTECH,<br>
+Mathias Heltbert, NBI,<br>
+Ralf Metzler, University of Potsdam,<br>
+Yuriy Pichugin, MPI Plön,<br>
+<!--- PostDocs --->
+Albertas Dvirnas, IceLab,<br>
+Alžbeta Kuižová, Umeå University,<br>
+Corentine Fournier, IceLab,<br>
+Elim Mallmin, MPI Plön,<br>
+Hae Seong Lee, Inha University,<br>
+Josephine Solowiej-Wedderburn, IceLab,<br>
+Juhee Lee, IceLab,<br>
+Seong-Gyu Yang, IceLab,<br>
+Sunhee Chae, Inha University,<br>
+Suvam Roy, IceLab,<br>
+<!--- Students --->
+Andreas Stillits, NBI,<br>
+Antón Carcedo Martinez, IceLab,<br>
+Aswin Gopakumar, IceLab,<br>
+Dongho Lee, POSTECH,<br>
+Jakob Schauser, NBI,<br>
+Jong-Won Hong, Inha University,<br>
+Léa Maheux, IceLab,<br>
+Sofia Almirante, IceLab,<br>
+WooJoong Kim, UNIST,<br>
+
 
 ### Organizers
 Hye Jin Park, Inha University, <br>
