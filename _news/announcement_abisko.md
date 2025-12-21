@@ -70,3 +70,14 @@ Hye Jin Park, Inha Univ.,<br>
 Eric Libby, IceLab,<br>
 Ludvig Lizana, IceLab<br>
 
+
+
+
+
+###	Accommodation
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/abisko_rooms.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
