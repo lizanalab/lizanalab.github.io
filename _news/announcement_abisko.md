@@ -72,7 +72,7 @@ Ludvig Lizana, IceLab<br>
 
 
 <!--- Rooms --->
-###	Accommodation
+###	Accommodation (TBD)
 <div class="row justify-content-sm-center">
   <div class="col-sm-9 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/abisko_rooms.png" title="example image" class="img-fluid rounded z-depth-1" %}
