@@ -71,9 +71,7 @@ Eric Libby, IceLab,<br>
 Ludvig Lizana, IceLab<br>
 
 
-
-
-
+<!--- Rooms --->
 ###	Accommodation
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
