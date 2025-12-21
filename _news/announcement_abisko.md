@@ -51,6 +51,7 @@ Hae Seong Lee, Inha Univ.,<br>
 Josephine Solowiej-Wedderburn, IceLab,<br>
 Juhee Lee, IceLab,<br>
 Seong-Gyu Yang, IceLab,<br>
+Sreekanth K. Manikandan, Univ. of Göteborg,<br>
 Sunhee Chae, Inha Univ.,<br>
 Suvam Roy, IceLab,<br>
 <!--- Students --->
