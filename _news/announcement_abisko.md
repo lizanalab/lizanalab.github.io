@@ -40,7 +40,7 @@ Hyeong-Chai Jeong, Sejong Univ.<br>
 Jae Woo Lee, Inha Univ.,<br>
 Jae-Hyung Jeon, POSTECH,<br>
 Mathias Heltbert, NBI,<br>
-Ralf Metzler, Univ. of Potsdam,<br>
+Ralf Metzler, Univ. Potsdam,<br>
 Yuriy Pichugin, MPI Plön,<br>
 <!--- PostDocs --->
 Albertas Dvirnas, IceLab,<br>
@@ -51,7 +51,7 @@ Hae Seong Lee, Inha Univ.,<br>
 Josephine Solowiej-Wedderburn, IceLab,<br>
 Juhee Lee, IceLab,<br>
 Seong-Gyu Yang, IceLab,<br>
-Sreekanth K. Manikandan, Univ. of Göteborg,<br>
+Sreekanth K. Manikandan, Univ. Göteborg,<br>
 Sunhee Chae, Inha Univ.,<br>
 Suvam Roy, IceLab,<br>
 <!--- Students --->
