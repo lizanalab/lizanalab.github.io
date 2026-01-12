@@ -39,13 +39,12 @@ Deok-Sun Lee, KIAS,<br>
 Hyeong-Chai Jeong, Sejong Univ.<br>
 Jae Woo Lee, Inha Univ.,<br>
 Jae-Hyung Jeon, POSTECH,<br>
-Mathias Heltbert, NBI,<br>
 Ralf Metzler, Univ. Potsdam,<br>
 Yuriy Pichugin, MPI Plön,<br>
 <!--- PostDocs --->
 Albertas Dvirnas, IceLab,<br>
 Alžbeta Kuižová, Umeå Univ.,<br>
-Corentine Fournier, IceLab,<br>
+Corentin Fournier, IceLab,<br>
 Elim Mallmin, MPI Plön,<br>
 Hae Seong Lee, Inha Univ.,<br>
 Josephine Solowiej-Wedderburn, IceLab,<br>
@@ -77,6 +76,15 @@ Ludvig Lizana, IceLab<br>
 <div class="row justify-content-sm-center">
   <div class="col-sm-9 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/abisko_rooms.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+
+<!--- Rooms --->
+###	Schedule
+<div class="row justify-content-sm-center">
+  <div class="col-sm-9 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/abisko_timetable.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
