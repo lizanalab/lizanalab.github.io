@@ -336,6 +336,7 @@
   year={2023},
   publisher={IOP Publishing},
   abstract = {The most common gene regulation mechanism is when a transcription factor (TF) protein binds to a regulatory sequence to increase or decrease RNA transcription. However, TFs face two main challenges when searching for these sequences. First, the sequences are vanishingly short relative to the genome length. Second, there are many nearly identical sequences scattered across the genome, causing proteins to suspend the search. But as pointed out in a computational study of LacI regulation in Escherichia coli, such almost-targets may lower search times if considering DNA looping. In this paper, we explore if this also occurs over chromosome-wide distances. To this end, we developed a cross-scale computational framework that combines established facilitated-diffusion models for basepair-level search and a network model capturing chromosome-wide leaps. To make our model realistic, we used Hi-C data sets as a proxy for 3D proximity between long-ranged DNA segments and binding profiles for more than 100 TFs. Using our cross-scale model, we found that median search times to individual targets critically depend on a network metric combining node strength (sum of link weights) and local dissociation rates. Also, by randomizing these rates, we found that some actual 3D target configurations stand out as considerably faster or slower than their random counterparts. This finding hints that chromosomes' 3D structure funnels essential TFs to relevant DNA regions.}
+  selected={false}
 }
 
 @article{holmgren2023mapping,
@@ -350,6 +351,7 @@
   note = {<a href = "hhttps://arxiv.org/abs/2212.08456">arXiv</a>},  
   publisher={Nature Publishing Group UK London},
   abstract = {To better understand DNA’s 3D folding in cell nuclei, researchers developed chromosome capture methods such as Hi-C that measure the contact frequencies between all DNA segment pairs across the genome. As Hi-C data sets often are massive, it is common to use bioinformatics methods to group DNA segments into 3D regions with correlated contact patterns, such as Topologically associated domains and A/B compartments. Recently, another research direction emerged that treats the Hi-C data as a network of 3D contacts. In this representation, one can use community detection algorithms from complex network theory that group nodes into tightly connected mesoscale communities. However, because Hi-C networks are so densely connected, several node partitions may represent feasible solutions to the community detection problem but are indistinguishable unless including other data. Because this limitation is a fundamental property of the network, this problem persists regardless of the community-finding or data-clustering method. To help remedy this problem, we developed a method that charts the solution landscape of network partitions in Hi-C data from human cells. Our approach allows us to scan seamlessly through the scales of the network and determine regimes where we can expect reliable community structures. We find that some scales are more robust than others and that strong clusters may differ significantly. Our work highlights that finding a robust community structure hinges on thoughtful algorithm design or method cross-evaluation.}
+  selected={false}
 }
 
 @article{bernenko2023exploring,
@@ -363,6 +365,7 @@
   pages={035004},
   year={2023},
   abstract = {Researchers have developed chromosome capture methods such as Hi-C to better understand DNA's 3D folding in nuclei. The Hi-C method captures contact frequencies between DNA segment pairs across the genome. When analyzing Hi-C data sets, it is common to group these pairs using standard bioinformatics methods (e.g. PCA). Other approaches handle Hi-C data as weighted networks, where connected node pairs represent DNA segments in 3D proximity. In this representation, one can leverage community detection techniques developed in complex network theory to group nodes into mesoscale communities containing nodes with similar connection patterns. While there are several successful attempts to analyze Hi-C data in this way, it is common to report and study the most typical community structure. But in reality, there are often several valid candidates. Therefore, depending on algorithm design, different community detection methods focusing on slightly different connectivity features may have differing views on the ideal node groupings. In fact, even the same community detection method may yield different results if using a stochastic algorithm. This ambiguity is fundamental to community detection and shared by most complex networks whenever interactions span all scales in the network. This is known as community inconsistency. This paper explores this inconsistency of 3D communities in Hi-C data for all human chromosomes. We base our analysis on two inconsistency metrics, one local and one global, and quantify the network scales where the community separation is most variable. For example, we find that TADs are less reliable than A/B compartments and that nodes with highly variable node-community memberships are associated with open chromatin. Overall, our study provides a helpful framework for data-driven researchers and increases awareness of some inherent challenges when clustering Hi-C data into 3D communities.}
+  selected={false}
 }
 
 @article{lundkvist2023forecasting,
@@ -389,6 +392,7 @@
   note={<a href = "https://doi.org/10.48550/arXiv.2311.11727">arXiv</a>},
   html={https://link.springer.com/chapter/10.1007/978-3-031-67802-8_24},
   abstract = {The most common gene regulation mechanism is when a protein binds to a regulatory sequence to change RNA transcription. However, these sequences are short relative to the genome length, so finding them poses a challenging search problem. This paper presents two mathematical frameworks capturing different aspects of this problem. First, we study the interplay between diffusional flux through a target where the searching proteins get sequestered on DNA far from the target because of non-specific interactions. From this model, we derive a simple formula for the optimal protein-DNA unbinding rate, maximizing the particle flux. Second, we study how the flux flows through a target on a single antenna with variable length. Here, we identify a non-trivial logarithmic correction to the linear behavior relative to the target size proposed by Smoluchowski's flux formula.}
+  selected={false}
 }
 
 @article{lizana2024topology,
@@ -410,20 +414,6 @@
   year={2024},
   abstract = {Cells regulate fates and complex body plans using spatiotemporal signaling cascades that al- ter gene expression. Enhancers, short DNA sequences (50-150 base pairs), help coordinate these cascades by attracting regulatory proteins to enhance the transcription of distal genes by bind- ing to promoters. In humans, there are hundreds of thousands of enhancers dispersed across the genome, which poses a challenging coordination task to prevent unintended gene activation. To mit- igate this problem, the genome contains additional DNA elements, insulators, that block enhancer- promoter interactions. However, there is an open problem with how the insulation works, especially as enhancer-insulator pairs may be separated by millions of base pairs. Based on recent empirical data from Hi-C experiments, this paper proposes a new mechanism that challenges the common paradigm that rests on specific insulator-insulator interactions. Instead, this paper introduces a stochastic looping model where enhancers bind weakly to surrounding chromatin. After calibrating the model to experimental data, we use simulations to study the broad distribution of hitting times between an enhancer and a promter when there are blocking insulators. In some cases, there is a large difference between average and most probable hitting times, making it difficult to assign a typical time scale, hinting at highly defocused regulation times. We also map our computational model onto a resetting problem that allows us to derive several analytical results. Besides offering new insights into enhancer-insulator interactions, our paper advances the understanding of gene regulatory networks and causal connections between genome folding and gene activation.},
   selected={true}
-}
-
-@article{hedstrom2024identifying,
-  title={Identifying stable communities in Hi-C using multifractal network modularity},
-  author={Lucas Hedstr{\"o}m and Antón Carcedo Martínez and Ludvig Lizana},
-  html = {},
-  note={<a href = "https://arxiv.org/abs/2405.05425">arXiv</a>},
-  journal={PLOS Complex Systems},
-  volume = {2},
-  number = {7},
-  pages = {e0000053},
-  year={2025},
-  abstract = {Chromosome capture techniques like Hi-C have expanded our understanding of mammalian genome 3D architecture and how it influences gene activity. To analyze Hi-C data sets, researchers increasingly treat them as DNA-contact networks and use standard community detection techniques to identify mesoscale 3D communities. However, there are considerable challenges in finding significant communities because the Hi-C networks have cross-scale interactions and are almost fully connected. This paper presents a pipeline to distill 3D communities that remain intact under experimental noise. To this end, we bootstrap an ensemble of Hi-C datasets representing noisy data and extract 3D communities that we compare with the unperturbed dataset. Notably, we extract the communities by maximizing local modularity (using the Generalized Louvain method), which considers the multifractal spectrum recently discovered in Hi-C maps. Our pipeline finds that stable communities (under noise) typically have above-average internal contac,t frequencies and tend to be enriched in active chromatin marks. We also find they fold into more nested cross-scale hierarchies than less stable ones. Apart from presenting how to systematically extract robust communities in Hi-C data, our paper offers new ways to generate null models that take advantage of the network’s multifractal properties. We anticipate this has a broad applicability to several network applications.},
-  selected={false}
 }
 
 
@@ -467,6 +457,7 @@
   year={2025},
   publisher={Elsevier},
   abstract = {Deep-burrowing earthworms (anecic and endogeic species) can dry soils by reworking mineral soil layers. Although this ‘drying effect’ has been reported across many ecosystems, including the Fennoscandian tundra, little is known about the driving processes. In this study, we measure plant transpiration in combination with controlled experiments of water holding capacity and evaporation to assess drivers of soil–water losses in tundra soil as the result of endogeic and anecic earthworms. Our experimental system was a common garden experiment with shrub-dominated (heath) and forb-dominated (meadow) vegetation (N = 48), where long-term monitoring revealed drier soils due to the addition of earthworms. Although we found that tundra plant transpiration was highest during the peak growing season and that meadow soil had a higher field capacity, our earthworm treatment did not strongly affect these two parameters. Evaporation, on the other hand, was on average 14 % higher in the meadow with earthworms although no such effect was observed in the heath soil. Using a network model of macropore vapor transfer that measures evaporation effects, we found an increase in macropore conductance between the subsoil and the atmosphere and that the vaporization rate in relation to the diffusion rate controls the strength of the evaporation effect. Our findings underscore the need to account for evaporation due to the reworking of pore architectures by soil biota when predicting changes in soil–water availability.}
+  selected={false}
 }
 
 @article{hedstrom2025identifying,
@@ -477,9 +468,11 @@
   number={7},
   pages={e0000053},
   html = {https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000053},
+  note = {<a href = "https://arxiv.org/abs/2405.05425">arXiv</a>},
   year={2025},
   publisher={Public Library of Science San Francisco, CA USA},
   abstract = {Chromosome capture techniques like Hi-C have expanded our understanding of mammalian genome 3D architecture and how it influences gene activity. To analyze Hi-C data sets, researchers increasingly treat them as DNA-contact networks and use standard community detection techniques to identify mesoscale 3D communities. However, there are considerable challenges in finding significant communities because the Hi-C networks have cross-scale interactions and are almost fully connected. This paper presents a pipeline to distill 3D communities that remain intact under experimental noise. To this end, we bootstrap an ensemble of Hi-C datasets representing noisy data and extract 3D communities that we compare with the unperturbed dataset. Notably, we extract the communities by maximizing local modularity (using the Generalized Louvain method), which considers the multifractal spectrum recently discovered in Hi-C maps. Our pipeline finds that stable communities (under noise) typically have above-average internal contac,t frequencies and tend to be enriched in active chromatin marks. We also find they fold into more nested cross-scale hierarchies than less stable ones. Apart from presenting how to systematically extract robust communities in Hi-C data, our paper offers new ways to generate null models that take advantage of the network’s multifractal properties. We anticipate this has a broad applicability to several network applications.}
+  selected={false}
 }
 
 @article{solowiej2025competition,
@@ -493,6 +486,7 @@
   year={2025},
   publisher={Public Library of Science San Francisco, CA USA},
   abstract = {Bacteria live in diverse communities, forming complex networks of interacting species. A central question in bacterial ecology is whether species engage in cooperative or competitive interactions. But this question often neglects the role of the environment. Here, we use genome-scale metabolic networks from two different open-access collections (AGORA and CarveMe) to assess pairwise interactions of different microbes in varying environmental conditions (provision of different environmental compounds). By computationally simulating thousands of environments for 10,000 pairs of bacteria from each collection, we found that most pairs were able to both compete and cooperate depending on the availability of environmental resources. This modeling approach allowed us to determine commonalities between environments that could facilitate the potential for cooperation or competition between a pair of species. Namely, cooperative interactions, especially obligate, were most common in less diverse environments. Further, as compounds were removed from the environment, we found interactions tended to degrade towards obligacy. However, we also found that on average at least one compound could be removed from an environment to switch the interaction from competition to facultative cooperation or vice versa. Together our approach indicates a high degree of plasticity in microbial interactions in response to the availability of environmental resources.}
+  selected={false}
 }
 
 @article{lizana2025chromatin,
@@ -503,6 +497,7 @@
   year={2025},
   publisher={Wiley Online Library},
   abstract = {The Polycomb system epigenetically represses selected developmental genes to enforce gene expression programs of differentiated cells. The system requires the coordinated action of dozens of structurally unrelated proteins assembled in two evolutionarily conserved polycomb repressive complexes, PRC1 and PRC2. Genes repressed by the Polycomb system are enriched in histone H3 trimethylated at lysine 27 (H3K27me3), an epigenetic mark that propagates the repressed state after DNA replication. Despite the impressive progress in dissecting molecular functions of the Polycomb group proteins, the fundamental questions of how the Polycomb system represses transcription or how the H3K27me3 mark is translated to benefit the repression are still open. Multiple observations indicate that the binding of PRC1, PRC2, and elevated H3K27me3 correlate with changes in the chromatin structure of target genes, which may be integral for the associated epigenetic repression. In this Review, we summarize our current understanding of these observations. We discuss the chromatin folding inside the loci repressed by the Polycomb system, consider molecular processes causing it and reflect upon its possible impact on transcription and epigenetic memory of the repressed state.}
+  selected={false}
 }
 
 
